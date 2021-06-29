@@ -78,7 +78,7 @@
     "ionic-angular": "^3.9.10",
     "ionicons": "^4.6.3",
     "ip-utils": "^2.4.0",
-    "marked": "^0.5.0",
+    "marked": "^0.7.0",
     "moment": "^2.29.1",
     "ngx-markdown": "^6.1.0",
     "papaparse": "^4.4.0",
